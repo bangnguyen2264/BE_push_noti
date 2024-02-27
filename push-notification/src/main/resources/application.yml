@@ -1,0 +1,3 @@
+firebase:
+  service-account: classpath:firebase-service-account.json
+
